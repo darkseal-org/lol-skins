@@ -1,10 +1,10 @@
 # Mecha Rengar Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107009.png' alt='Chroma 107009' width='100'> | Chroma 107009 | 107009 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107010.png' alt='Chroma 107010' width='100'> | Chroma 107010 | 107010 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107011.png' alt='Chroma 107011' width='100'> | Chroma 107011 | 107011 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107012.png' alt='Chroma 107012' width='100'> | Chroma 107012 | 107012 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107013.png' alt='Chroma 107013' width='100'> | Chroma 107013 | 107013 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107014.png' alt='Chroma 107014' width='100'> | Chroma 107014 | 107014 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![107009](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107009.png) | 107009 |
+| ![107010](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107010.png) | 107010 |
+| ![107011](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107011.png) | 107011 |
+| ![107012](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107012.png) | 107012 |
+| ![107013](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107013.png) | 107013 |
+| ![107014](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107014.png) | 107014 |

@@ -93,26 +93,30 @@ By offering Exalted as a reward for those who support our project, we can contin
 </div>
 </div>
 
+### Brazil
+
+
 ## How to Obtain Exalted
 
-<details>
-<summary><strong>Option 1: Support through Donation</strong></summary>
 
-1. **Before Donating**:
-   - Create a Ko-Fi account
-   - Connect your Discord account to Ko-Fi
-   - Ensure both accounts are properly linked
+<summary><strong>Option 1: Our website</strong></summary>
 
-2. **Make a Donation**:
-   - Visit [Ko-Fi](https://ko-fi.com/darksealorg)
-   - Donate the specified amount (currently $20)
-   - After donation, you'll receive setup instructions via email
-   - Check spam folders if email doesn't arrive promptly
+1. **Choose your plan**:
+   - Visit [our website](https://darkseal.org)
+   - Go to "Pricing"
+   - Find the one that fits you the most.
+   - After buying, you will receive an e-mail with a invitation code and a License code. You can then click on "Register" on our website and go to "Downloads"
 
-3. **Installation**:
-   - Follow the instructions in the email
-   - Download the installer and run as administrator
-</details>
+2. **Installation**:
+   - Login into Dark Seal
+   - Go to "Download" page
+   - Download the installer
+   - Generate a license key
+   - Paste on Exalted, press Enter.
+  
+> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/darkseal-org/lol-skins/blob/master/README.pt-br.md) deste README.  
+
+
 
 <details>
 <summary><strong>Option 2: Contribute to the Project</strong></summary>
@@ -335,10 +339,6 @@ Submit issues to our [GitHub issue tracker](https://github.com/darkseal-org/lol-
 
 - Exalted is currently not available in Korea
 
-### Brazil
-
-> [!IMPORTANT]
-> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/darkseal-org/lol-skins/blob/master/README.pt-br.md) deste README.
 
 ## Contact
 

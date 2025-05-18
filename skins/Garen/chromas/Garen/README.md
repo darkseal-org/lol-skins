@@ -1,7 +1,7 @@
 # Garen Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/86/86007.png' alt='Noble' width='100'> | Noble | 86007 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/86/86008.png' alt='Noble' width='100'> | Noble | 86008 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/86/86009.png' alt='Noble' width='100'> | Noble | 86009 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![86007](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/86/86007.png) | 86007 |
+| ![86008](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/86/86008.png) | 86008 |
+| ![86009](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/86/86009.png) | 86009 |

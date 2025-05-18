@@ -1,13 +1,17 @@
 # HEARTSTEEL Yone Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777047.png' alt='Chroma 777047' width='100'> | Chroma 777047 | 777047 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777048.png' alt='Chroma 777048' width='100'> | Chroma 777048 | 777048 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777049.png' alt='Chroma 777049' width='100'> | Chroma 777049 | 777049 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777050.png' alt='Chroma 777050' width='100'> | Chroma 777050 | 777050 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777051.png' alt='Chroma 777051' width='100'> | Chroma 777051 | 777051 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777052.png' alt='Chroma 777052' width='100'> | Chroma 777052 | 777052 |
-| 07 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777053.png' alt='Chroma 777053' width='100'> | Chroma 777053 | 777053 |
-| 08 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777054.png' alt='Chroma 777054' width='100'> | Chroma 777054 | 777054 |
-| 09 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777056.png' alt='Chroma 777056' width='100'> | Chroma 777056 | 777056 |
+| Chroma ID | Preview | Unique number |
+|---|---|---|
+| `777047` | ![777047](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777047.png) | 1 |
+| `777048` | ![777048](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777048.png) | 2 |
+| `777049` | ![777049](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777049.png) | 3 |
+| `777050` | ![777050](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777050.png) | 4 |
+| `777051` | ![777051](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777051.png) | 5 |
+| `777052` | ![777052](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777052.png) | 6 |
+| `777053` | ![777053](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777053.png) | 7 |
+| `777054` | ![777054](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777054.png) | 8 |
+| `777056` | ![777056](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777056.png) | 9 |
+
+---
+
+**Note:** 'Unique number' is just a sequential counter for the chromas listed in the API for this skin.

@@ -1,10 +1,10 @@
 # Dreadnova Gangplank Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41009.png' alt='Chroma 41009' width='100'> | Chroma 41009 | 41009 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41010.png' alt='Chroma 41010' width='100'> | Chroma 41010 | 41010 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41011.png' alt='Chroma 41011' width='100'> | Chroma 41011 | 41011 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41012.png' alt='Chroma 41012' width='100'> | Chroma 41012 | 41012 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41013.png' alt='Chroma 41013' width='100'> | Chroma 41013 | 41013 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41032.png' alt='Chroma 41032' width='100'> | Chroma 41032 | 41032 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![41009](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41009.png) | 41009 |
+| ![41010](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41010.png) | 41010 |
+| ![41011](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41011.png) | 41011 |
+| ![41012](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41012.png) | 41012 |
+| ![41013](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41013.png) | 41013 |
+| ![41032](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/41/41032.png) | 41032 |

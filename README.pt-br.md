@@ -84,26 +84,26 @@ Ao oferecer o Exalted como recompensa para aqueles que apoiam nosso projeto, pod
 
 ### Como Obter o Exalted
 
-<details>
-<summary><strong>Opção para Brasileiros: Doação via PIX</strong></summary>
 
-Estamos cientes que doações em dólar são fora da realidade brasileira, até porque **eu sou brasileiro**. Portanto, exclusivamente para o Brasil, aceitamos doações acima de R$50,00 via Pix:
+<summary><strong>Adqurindo o Exalted</strong></summary>
 
-1. **Chave PIX**: 
-   ```
-   b2763e55-ac97-4963-83e9-d9827caed2de
-   ```
+1. **Escolha seu plano**:
 
-2. **Após a doação**:
-   - Envie um e-mail com o comprovante para: bruno.trigueiro@pm.me
-   - Você receberá instruções para acessar o Exalted
+   * Acesse o [nosso site](https://darkseal.org/br)
+   * Vá em “Planos”
+   * Encontre o plano que mais se adequa a você
+   * Após a compra, você receberá um e-mail com um código de convite e um código de licença.
+   * Então, clique em “Register” no nosso site e acesse “Downloads”
 
-3. **Benefícios**:
-   - Acesso vitalício - compre uma vez, tenha acesso para sempre
-   - Compartilhe com amigos - dividindo o custo, sai por menos de R$10,00 para cada um
-</details>
+2. **Instalação**:
 
-<details>
+   * Faça login no Dark Seal
+   * Vá para a página “Download”
+   * Baixe o instalador
+   * Gere uma chave de licença
+   * Cole no Exalted e pressione Enter
+
+
 <summary><strong>Opção 2: Contribuir com o Projeto</strong></summary>
 
 Você pode ganhar acesso ao Exalted contribuindo ativamente com o projeto:

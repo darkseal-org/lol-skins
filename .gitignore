@@ -1,3 +1,5 @@
 releases/
 *.ps1
 *.py
+.readme_cache/
+readme_generator.log

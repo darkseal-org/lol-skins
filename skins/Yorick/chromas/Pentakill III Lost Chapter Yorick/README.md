@@ -1,12 +1,12 @@
 # Pentakill III Lost Chapter Yorick Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83022.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83022 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83023.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83023 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83024.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83024 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83025.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83025 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83026.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83026 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83027.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83027 |
-| 07 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83028.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83028 |
-| 08 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83029.png' alt='Pentakill III: Lost Chapter Yorick' width='100'> | Pentakill III: Lost Chapter Yorick | 83029 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![83022](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83022.png) | 83022 |
+| ![83023](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83023.png) | 83023 |
+| ![83024](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83024.png) | 83024 |
+| ![83025](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83025.png) | 83025 |
+| ![83026](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83026.png) | 83026 |
+| ![83027](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83027.png) | 83027 |
+| ![83028](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83028.png) | 83028 |
+| ![83029](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/83/83029.png) | 83029 |

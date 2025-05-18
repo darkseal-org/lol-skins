@@ -1,13 +1,13 @@
 # Debonair Leona Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89035.png' alt='Chroma 89035' width='100'> | Chroma 89035 | 89035 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89036.png' alt='Chroma 89036' width='100'> | Chroma 89036 | 89036 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89037.png' alt='Chroma 89037' width='100'> | Chroma 89037 | 89037 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89038.png' alt='Chroma 89038' width='100'> | Chroma 89038 | 89038 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89039.png' alt='Chroma 89039' width='100'> | Chroma 89039 | 89039 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89040.png' alt='Chroma 89040' width='100'> | Chroma 89040 | 89040 |
-| 07 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89041.png' alt='Chroma 89041' width='100'> | Chroma 89041 | 89041 |
-| 08 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89042.png' alt='Chroma 89042' width='100'> | Chroma 89042 | 89042 |
-| 09 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89043.png' alt='Chroma 89043' width='100'> | Chroma 89043 | 89043 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![89035](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89035.png) | 89035 |
+| ![89036](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89036.png) | 89036 |
+| ![89037](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89037.png) | 89037 |
+| ![89038](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89038.png) | 89038 |
+| ![89039](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89039.png) | 89039 |
+| ![89040](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89040.png) | 89040 |
+| ![89041](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89041.png) | 89041 |
+| ![89042](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89042.png) | 89042 |
+| ![89043](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89043.png) | 89043 |

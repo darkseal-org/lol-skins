@@ -1,13 +1,13 @@
 # PROJECT Mordekaiser Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82014.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82014 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82015.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82015 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82016.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82016 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82017.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82017 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82018.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82018 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82019.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82019 |
-| 07 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82020.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82020 |
-| 08 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82021.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82021 |
-| 09 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82022.png' alt='PROJECT: Mordekaiser' width='100'> | PROJECT: Mordekaiser | 82022 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![82014](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82014.png) | 82014 |
+| ![82015](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82015.png) | 82015 |
+| ![82016](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82016.png) | 82016 |
+| ![82017](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82017.png) | 82017 |
+| ![82018](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82018.png) | 82018 |
+| ![82019](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82019.png) | 82019 |
+| ![82020](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82020.png) | 82020 |
+| ![82021](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82021.png) | 82021 |
+| ![82022](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82022.png) | 82022 |

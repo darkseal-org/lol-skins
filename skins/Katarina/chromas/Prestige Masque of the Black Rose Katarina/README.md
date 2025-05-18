@@ -1,5 +1,5 @@
 # Prestige Masque of the Black Rose Katarina Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55069.png' alt='Chroma 55069' width='100'> | Chroma 55069 | 55069 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![55069](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55069.png) | 55069 |

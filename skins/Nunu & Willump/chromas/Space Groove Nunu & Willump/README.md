@@ -1,13 +1,13 @@
 # Space Groove Nunu & Willump Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20017.png' alt='Chroma 20017' width='100'> | Chroma 20017 | 20017 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20018.png' alt='Chroma 20018' width='100'> | Chroma 20018 | 20018 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20019.png' alt='Chroma 20019' width='100'> | Chroma 20019 | 20019 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20020.png' alt='Chroma 20020' width='100'> | Chroma 20020 | 20020 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20021.png' alt='Chroma 20021' width='100'> | Chroma 20021 | 20021 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20022.png' alt='Chroma 20022' width='100'> | Chroma 20022 | 20022 |
-| 07 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20023.png' alt='Chroma 20023' width='100'> | Chroma 20023 | 20023 |
-| 08 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20024.png' alt='Chroma 20024' width='100'> | Chroma 20024 | 20024 |
-| 09 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20025.png' alt='Chroma 20025' width='100'> | Chroma 20025 | 20025 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![20017](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20017.png) | 20017 |
+| ![20018](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20018.png) | 20018 |
+| ![20019](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20019.png) | 20019 |
+| ![20020](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20020.png) | 20020 |
+| ![20021](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20021.png) | 20021 |
+| ![20022](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20022.png) | 20022 |
+| ![20023](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20023.png) | 20023 |
+| ![20024](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20024.png) | 20024 |
+| ![20025](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20025.png) | 20025 |

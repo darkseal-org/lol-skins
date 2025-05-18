@@ -1,13 +1,13 @@
-# La Ilusi√≥n Nidalee Chromas
+# La Ilusi®Æn Nidalee Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76049.png' alt='Chroma 76049' width='100'> | Chroma 76049 | 76049 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76050.png' alt='Chroma 76050' width='100'> | Chroma 76050 | 76050 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76051.png' alt='Chroma 76051' width='100'> | Chroma 76051 | 76051 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76052.png' alt='Chroma 76052' width='100'> | Chroma 76052 | 76052 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76053.png' alt='Chroma 76053' width='100'> | Chroma 76053 | 76053 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76054.png' alt='Chroma 76054' width='100'> | Chroma 76054 | 76054 |
-| 07 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76055.png' alt='Chroma 76055' width='100'> | Chroma 76055 | 76055 |
-| 08 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76056.png' alt='Chroma 76056' width='100'> | Chroma 76056 | 76056 |
-| 09 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76057.png' alt='Chroma 76057' width='100'> | Chroma 76057 | 76057 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![76049](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76049.png) | 76049 |
+| ![76050](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76050.png) | 76050 |
+| ![76051](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76051.png) | 76051 |
+| ![76052](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76052.png) | 76052 |
+| ![76053](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76053.png) | 76053 |
+| ![76054](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76054.png) | 76054 |
+| ![76055](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76055.png) | 76055 |
+| ![76056](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76056.png) | 76056 |
+| ![76057](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/76/76057.png) | 76057 |

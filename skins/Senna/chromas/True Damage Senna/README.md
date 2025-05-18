@@ -1,11 +1,11 @@
 # True Damage Senna Chromas
 
-| Index | Preview | Chroma Name | Chroma ID |
-|:---|:---|:---|:---|
-| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235002.png' alt='Chroma 235002' width='100'> | Chroma 235002 | 235002 |
-| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235003.png' alt='Chroma 235003' width='100'> | Chroma 235003 | 235003 |
-| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235004.png' alt='Chroma 235004' width='100'> | Chroma 235004 | 235004 |
-| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235005.png' alt='Chroma 235005' width='100'> | Chroma 235005 | 235005 |
-| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235006.png' alt='Chroma 235006' width='100'> | Chroma 235006 | 235006 |
-| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235007.png' alt='Chroma 235007' width='100'> | Chroma 235007 | 235007 |
-| 07 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235008.png' alt='Chroma 235008' width='100'> | Chroma 235008 | 235008 |
+| Preview | Chroma ID |
+|---------|-----------|
+| ![235002](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235002.png) | 235002 |
+| ![235003](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235003.png) | 235003 |
+| ![235004](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235004.png) | 235004 |
+| ![235005](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235005.png) | 235005 |
+| ![235006](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235006.png) | 235006 |
+| ![235007](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235007.png) | 235007 |
+| ![235008](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235008.png) | 235008 |
